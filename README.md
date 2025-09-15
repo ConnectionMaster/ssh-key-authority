@@ -133,6 +133,7 @@ Screenshots
 Security advisories
 -------------------
 * [SKA security advisory: SSH port redirection attack](https://github.com/operasoftware/ssh-key-authority/wiki/SKA-security-advisory%3A-SSH-port-redirection-attack)
+* [SKA security advisory: insufficient validation of group access rule edit privileges](https://github.com/operasoftware/ssh-key-authority/wiki/SKA-security-advisory%3A-insufficient-validation-of-group-access-rule-edit-privileges)
 
 License
 -------
